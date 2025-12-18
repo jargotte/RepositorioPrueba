@@ -1,1 +1,2 @@
 #### ARCHIVO UTILIZADO PARA EL LOG DE LOS CAMBIOS #####
+NOTA: Antes de liberar una versión se debe llenar el este archivo con los cambios importantes
